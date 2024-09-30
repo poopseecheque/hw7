@@ -1,0 +1,2 @@
+1) In the first task i simply repeated the procedure, however I got very confused and didn't really understand how it worked our haha
+2) The 2nd task was easier, the only trick was to add extra variable that will record the iterations.
